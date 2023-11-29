@@ -4,6 +4,33 @@
 # girls,Sngl,0.153829
 # mixed,Mxd,-0.09791
 
+# Leitura dos Dados:
+Carregar os quatro conjuntos de dados para entender suas estruturas e características.
+
+# Análise Exploratória: 
+Examinar as variáveis disponíveis, identificar possíveis correlações e padrões, e entender como as variáveis dos alunos e escolas estão distribuídas.
+
+# Pré-processamento de Dados: 
+Preparar os dados para modelagem, incluindo a limpeza, transformação de variáveis categóricas e a junção das tabelas de escolas e estudantes.
+
+# Modelagem: 
+
+Construir um modelo para prever o resultado no exame normalizado ('normexam'). Será necessário decidir o tipo de modelo a ser utilizado, treiná-lo e validá-lo.
+
+# Análise dos Resultados: 
+Avaliar o desempenho do modelo e analisar o impacto das variáveis, especialmente o tipo de escola, sobre os resultados dos exames.
+Vamos começar lendo e explorando os dados. Vou carregar os quatro conjuntos de dados e fornecer um resumo de suas estruturas e algumas estatísticas descritivas básicas.
+
+As informações iniciais dos conjuntos de dados indicam algumas questões:
+
+Dados Categóricos da Escola (Categorical School Data): Possui 130 entradas com uma coluna de texto. Aparentemente, os dados estão em um formato que combina múltiplas informações em uma única coluna, o que requer separação para análise.
+
+Dados Categóricos do Estudante (Categorical Student Data): Contém 11.828 entradas, e, assim como os dados da escola, parece combinar várias informações em uma coluna.
+
+Dados Numéricos da Escola (Numerical School Data): Com 65 entradas, os dados numéricos das escolas também apresentam o mesmo formato de dados combinados.
+
+Dados Numéricos do Estudante (Numerical Student Data): Possui 8.118 entradas e apresenta o mesmo padrão dos outros conjuntos de dados.
+
 
 Este código carrega quatro conjuntos de dados, dois contendo informações categóricas e numéricas sobre escolas e dois contendo informações categóricas
 e numéricas sobre estudantes. Ele então reformata esses conjuntos de dados para que haja uma linha por escola ou estudante, mescla os conjuntos de
