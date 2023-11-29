@@ -31,6 +31,25 @@ Dados Numéricos do Estudante (Numerical Student Data):
 Estrutura: 8118 entradas, 4 colunas.
 Exemplo de dados: escola 1, estudante 143, variável normexam, valor 0,2613242.
 
+## A análise exploratória inicial dos dados revela o seguinte:
+
+Estatísticas Descritivas dos Dados Numéricos das Escolas:
+
+Há um total de 65 escolas.
+A média e o desvio padrão sugerem uma distribuição relativamente uniforme entre as escolas.
+Estatísticas Descritivas dos Dados Numéricos dos Estudantes:
+
+Há 8118 observações.
+A média próxima de zero e o desvio padrão de aproximadamente 1 nos valores sugerem que os dados podem estar normalizados ou padronizados.
+O intervalo de valores varia de -3.666 a 3.666, o que pode indicar uma escala padronizada.
+Contagem de Valores Únicos nos Dados Categóricos das Escolas:
+
+Existem mais escolas mistas (mixed e Mxd), seguidas por escolas de gênero único (Sngl, girls, boys).
+A contagem de escolas para meninos (boys) é significativamente menor em comparação com as escolas mistas e só para meninas (girls).
+Contagem de Valores Únicos nos Dados Categóricos dos Estudantes:
+
+A maioria dos valores categóricos dos estudantes está na categoria 'mid 50%', seguida por 'F' (feminino), 'bottom 25%', 'top 25%' e 'M' (masculino).
+
 # Leitura dos Dados:
 Carregar os quatro conjuntos de dados para entender suas estruturas e características.
 
