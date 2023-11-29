@@ -12,6 +12,25 @@ com as escolas mistas apresentando o menor desempenho médio.
 # girls,Sngl,0.153829
 # mixed,Mxd,-0.09791
 
+## conjunto de dados:
+
+Dados Categóricos da Escola (Categorical School Data):
+
+Estrutura: 130 entradas, 3 colunas (school, variable, value).
+Exemplo de dados: escola 1, variável schgend, valor mixed.
+Dados Numéricos da Escola (Numerical School Data):
+
+Estrutura: 65 entradas, 3 colunas.
+Exemplo de dados: escola 1, variável schavg, valor 0,1661752.
+Dados Categóricos do Estudante (Categorical Student Data):
+
+Estrutura: 11828 entradas, 4 colunas (school, student, variable, value).
+Exemplo de dados: escola 1, estudante 143, variável intake, valor bottom 25%.
+Dados Numéricos do Estudante (Numerical Student Data):
+
+Estrutura: 8118 entradas, 4 colunas.
+Exemplo de dados: escola 1, estudante 143, variável normexam, valor 0,2613242.
+
 # Leitura dos Dados:
 Carregar os quatro conjuntos de dados para entender suas estruturas e características.
 
