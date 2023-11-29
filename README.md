@@ -12,7 +12,7 @@ com as escolas mistas apresentando o menor desempenho médio.
 # girls,Sngl,0.153829
 # mixed,Mxd,-0.09791
 
-## conjunto de dados:
+## Conjunto de dados:
 
 Dados Categóricos da Escola (Categorical School Data):
 
