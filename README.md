@@ -1,3 +1,10 @@
+## Resultado
+# schgend,type,normexam
+# boys,Sngl,0.019022
+# girls,Sngl,0.153829
+# mixed,Mxd,-0.09791
+
+
 Este código carrega quatro conjuntos de dados, dois contendo informações categóricas e numéricas sobre escolas e dois contendo informações categóricas
 e numéricas sobre estudantes. Ele então reformata esses conjuntos de dados para que haja uma linha por escola ou estudante, mescla os conjuntos de
 dados categóricos e numéricos para escolas e estudantes, e então mescla os conjuntos de dados das escolas e dos estudantes. Em seguida, limpa os dados 
