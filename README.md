@@ -1,4 +1,12 @@
 ## Resultado
+
+Escolas só de meninos (boys) têm um valor muito próximo de zero, sugerindo um desempenho médio quase neutro.
+Escolas só de meninas (girls) têm um valor positivo maior, indicando um desempenho acima da média.
+Escolas mistas (mixed) têm um valor negativo, sugerindo um desempenho abaixo da média.
+Esses resultados sugerem que, com base nos dados e na forma como o 'normexam' é calculado, 
+as escolas só de meninas podem ser mais eficientes na formação de seus alunos, seguidas pelas escolas só de meninos,
+com as escolas mistas apresentando o menor desempenho médio.
+
 # schgend,type,normexam
 # boys,Sngl,0.019022
 # girls,Sngl,0.153829
